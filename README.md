@@ -28,11 +28,19 @@ This list of condos (address and unit #) are in the condos-rittenhouse.csv file.
 - error 1 explanation: (Address not match:)
 - error numbers :1
 - error row number:136--the address was (1830 RITTENHOUSE SQ) should be changed to (1830-34 RITTENHOUSE SQ)
-- Solution:
-- Manually search and add to the myresults.csv
+- Solution: Manually search and add to the myresults.csv
 
 
+###### (2) ERROR 2
+- error 2 explanation: (No valuation history:)
+- error numbers : 15
+- num:514;518;521;523;528;530;531;534;536;545;551;553;558;567;568
+- Solution: After Looked through the sales details and found the market value is hugely different from the sales. So we will *abandon these 15 units data*
 
+# (3)
+# error 3 explanation: (the history data start with 2017 instead of 2018)
+# solution:
+# reconstruction of the scripts and web script it again for these missing data
 
 
 
