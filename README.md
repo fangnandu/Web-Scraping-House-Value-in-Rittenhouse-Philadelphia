@@ -45,7 +45,10 @@ This list of condos (address and unit #) are in the condos-rittenhouse.csv file.
 ### 3 visualization preparation
 #### - 3.1 summarize the average price per sqft for each property
 #### - 3.2 Using Google API to geocoding the address
-
+- [I'm an inline-style link with title](https://www.rdocumentation.org/packages/googleway/versions/2.2.0/topics/google_geocode "Google geocode")
+- [I'm an inline-style link with title](https://developers.google.com/maps/documentation/geocoding/get-api-key "geocode API")
+- [I'm an inline-style link with title](https://developers.google.com/maps/documentation/geocoding/get-api-key
+ "Google API")
 #### - 3.3 Geocoding Error, Challenges and Solution, Explanation
 ##### error numbers: 5
 ######  ERROR 
