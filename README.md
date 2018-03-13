@@ -1,4 +1,4 @@
-# Web-Scraping-house-value-in-Rittenhouse-Philadelphia
+# Web-Scraping-House-Value-in-Rittenhouse-Philadelphia
 Web Scraping and Visualize Market Value &amp; Area Data From property.phila.gov data
 ## Assignment Desciption
 Calculate the price per square foot of condominiums overlooking Rittenhouse Square by scraping the Philadelphia Property Database. Then present this information visually on a map.
