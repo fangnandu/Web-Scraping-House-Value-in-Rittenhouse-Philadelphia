@@ -79,5 +79,10 @@ This list of condos (address and unit #) are in the condos-rittenhouse.csv file.
 - using the excel to add this to the 1830 RITTENHOUSE SQ and recalculate the average price
 
 
+### 4 Data Visualization
+#### - 4.1 Get the basemap
+#### - 4.2 Spatial join the parcel data from phily and join the buidling info to the parcel for visualization
+#### - 4.3 Map Visualization
+
 
 ## final Visualization Map Deliverable
