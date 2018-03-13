@@ -18,5 +18,22 @@ Calculate the price per square foot of condominiums overlooking Rittenhouse Squa
 6. Unpack the Chromedriver executable file to one of the folders listed in your PATH.
 7. NEXT TIME, YOU CAN START AT THIS STEP To start the server, open the command line and go to the directory where the Selenium Standalone Server file is downloaded and run java -jar selenium-server-standalone-3.9.1.jar.
 
+### 2 Web Scraping
+#### 2.1 Web Sraping for the given condos In RittenHouse SQ, Philadelphia
+This list of condos (address and unit #) are in the condos-rittenhouse.csv file.
+
+#### 2.2 Web Scraping Error, Challenges and Solution, Explanation
+##### error numbers: 16
+###### (1)
+error 1 explanation: (Address not match:)
+error numbers :1
+error row number:136--the address was (1830 RITTENHOUSE SQ) should be changed to (1830-34 RITTENHOUSE SQ)
+Solution:
+# Manually search and add to the myresults.csv
+
+
+
+
+
 
 ## final Visualization Map Deliverable
