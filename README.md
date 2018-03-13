@@ -51,12 +51,33 @@ This list of condos (address and unit #) are in the condos-rittenhouse.csv file.
  "Google API")
 #### - 3.3 Geocoding Error, Challenges and Solution, Explanation
 ##### error numbers: 5
-######  ERROR 
+######   ERROR 
 - After runned this, there are several multi matches for these location, and we will select it manually
 - The error number row is 6,7,10,11,12
 - error cause: multi matches
 - solution: identify the location muanlly 
 - trick:add the ""RITTENHOUSE SQ"" to increase the accuracy of geocoding
+
+#### - 3.4 Final Building CSV Error, Challenges and Solution, Explanation
+##### error numbers: 2
+###### identify the irragular data
+###### (1)
+- Address: 219 S 18TH ST RITTENHOUSE SQ 
+- unit: PHG
+- Number :1
+- error:
+- the address should be 219-29 S 18TH ST
+- solution:
+- using the excel to add this to the 219-29 S 18TH ST and recalculate the average price
+
+###### (2)
+- address:1830-34 RITTENHOUSE SQ
+- Number :1
+- error:
+- the address should be 1830 RITTENHOUSE SQ
+- solution:
+- using the excel to add this to the 1830 RITTENHOUSE SQ and recalculate the average price
+
 
 
 ## final Visualization Map Deliverable
