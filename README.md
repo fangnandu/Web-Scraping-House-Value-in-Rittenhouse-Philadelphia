@@ -25,11 +25,11 @@ This list of condos (address and unit #) are in the condos-rittenhouse.csv file.
 #### 2.2 Web Scraping Error, Challenges and Solution, Explanation
 ##### error numbers: 16
 ###### (1) ERROR 1
- error 1 explanation: (Address not match:)
- error numbers :1
- error row number:136--the address was (1830 RITTENHOUSE SQ) should be changed to (1830-34 RITTENHOUSE SQ)
- Solution:
- Manually search and add to the myresults.csv
+- error 1 explanation: (Address not match:)
+- error numbers :1
+- error row number:136--the address was (1830 RITTENHOUSE SQ) should be changed to (1830-34 RITTENHOUSE SQ)
+- Solution:
+- Manually search and add to the myresults.csv
 
 
 
