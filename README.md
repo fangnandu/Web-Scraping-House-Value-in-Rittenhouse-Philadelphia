@@ -5,10 +5,10 @@ Calculate the price per square foot of condominiums overlooking Rittenhouse Squa
 
 ## Assignment Steps:
 ### 1 environment set up
-- 1.1 package load
-- 1.2 Selenium set up (two ways: local or SAUCE LABS)
+#### - 1.1 package load
+#### - 1.2 Selenium set up (two ways: local or SAUCE LABS)
 
-#### Selenium setup:
+ Selenium setup:
 
 1. Install Java JDK, following these intructions for Windows or these instructions for OS X. You can download the latest Java JDK version here.
 2. Download the latest version of the Selenium Standalone Server.
